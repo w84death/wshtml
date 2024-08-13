@@ -68,3 +68,17 @@ This Readme is adapted from
 [Converting WordStar files](https://www.both.org/?p=6898)
 by Jim Hall, and is distributed under the
 Creative Commons Attribution ShareAlike license.
+
+----
+
+## This Fork
+My changes and instructions.
+
+### Usage
+Run on Windows 10 in PowerShell
+
+```.\WSHTML.EXE .\example\example.ws > .\example\example.html```
+
+### Example
+![Example WS](example/wordstar.jpg)
+![Example WS](example/html.jpg)
